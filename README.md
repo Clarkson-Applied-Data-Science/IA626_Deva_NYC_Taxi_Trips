@@ -59,6 +59,7 @@ Coordinate | Min        | Max
 Longitude  | -74.031761 | -73.924896 
 Latitude   | 40.682972  | 40.818737  
 
+Used geojson.io with the above coordinates to plot this over the map.
 <img width="866" alt="{0B76B053-766A-4E30-A7D8-F834DDAD5926}" src="https://github.com/user-attachments/assets/03e8f195-5c5a-485a-86ed-2c13423a3bad">
 
 
